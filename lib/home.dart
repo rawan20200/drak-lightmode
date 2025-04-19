@@ -34,7 +34,7 @@ class Home extends StatelessWidget {
                       },
                       icon: Icon(
                         getTheme.themeicon.value.icon,
-                        color: getTheme.iconcolor.value,
+                        // color: getTheme.iconcolor.value,
                         size: 35,
                       ),
                     ),
